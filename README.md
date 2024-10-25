@@ -1,1 +1,1 @@
-# Adding_copyright
+contains py codes for pattern-type problems
