@@ -9,6 +9,7 @@ for i in range(n):
 for row in arr:
     print(' '.join(row))
 
+#OUTPUT IS
 '''11        15
      22   24
        33
